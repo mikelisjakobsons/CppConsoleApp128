@@ -1,7 +1,7 @@
 # CppConsoleApp128
 
 A Visual C++ console project that focuses on using 128 bit integers.
-A signed 128-bit integer has a range from around -1.7e38 to +1.7e38, and its unsigned has a range from 0 to around 3.4e38. This is the double length of the ordinary Visual Studio long integer where that range is from around -9.26e18 to + 9.26e18, and its ordinary lopng integer is from 0 to around 1.85e19.
+A signed 128-bit integer has a range from around -1.7e38 to +1.7e38, and its unsigned has a range from 0 to around 3.4e38. This is the double length of the ordinary Visual Studio long integer where that range is from around -9.26e18 to + 9.26e18, and its ordinary long integer is from 0 to around 1.85e19.
 
 It consists of three source files, each are all different, and can be added in as file-items while making such project. But its repository also contains five more files, including README, are Visual-Studio generated files comprising a Visual Studio Solution.
 
